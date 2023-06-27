@@ -4,43 +4,81 @@ Theory - If you have to make a U-turn, slow down and ensure that the road is cle
 Question - What should you do before making a U-turn?
 Answer - Look over your shoulder for a final check.
 2
+Theory - You should slow down and be cautious. The bridge is narrow and there may not be enough room for you to pass an oncoming vehicle at this point. Also, there’s no footpath, so be aware of pedestrians in the road.
 Question - What should you do as you approach this bridge?
+Answer - Slow down.
 3
+Theory - As you begin to think about overtaking, ask yourself whether it’s really necessary. If you can’t see well ahead, stay back and wait for a safer place to pull out.
 Question - In which of these situations should you avoid overtaking?
+Answer - Approaching a dip in the road.
 4
+Theory - In this picture, the road marking shows that overtaking drivers or riders need to return to the left. These markings show the direction drivers must pass hatch markings or solid double white lines. They are also used to show the route that high vehicles 
 Question - What does the curved arrow on the road mean?
+Answer - Overtaking traffic should move back to the left.
 5
+Theory - It’s illegal to use a hand-held mobile or similar device when driving or riding, except in a genuine emergency. The safest option is to switch off your mobile phone before you set off, and use a message service. If you’ve forgotten to switch your phone of
 Question - Your mobile phone rings while you’re travelling. What should you do?
+Answer - Ignore it.
 6
+Theory - These lines are often found on the approach to a roundabout or a dangerous junction. They give you extra warning to adjust your speed. Look well ahead and do this in good time.
 Question - Why are these yellow lines painted across the road?
+Answer - To make you aware of your speed.
 7
+Theory - The longer traffic lights have been on green, the sooner they’ll change. Allow for this as you approach traffic lights that you know have been on green for a while. They’re likely to change soon, so you should be prepared to stop.
 Question - What should you do when you’re approaching traffic lights that have been on green for some time?
+Answer - Be ready to stop.
 8
+Theory - Before pulling up, check the mirrors to see what’s happening behind you. Also assess what’s ahead and make sure you give the correct signal if it will help other road users.
 Question - What should you do before stopping?
+Answer - Use the mirrors.
 9
+Theory - If you’re following a large vehicle but are so close to it that you can’t see its exterior mirrors, the driver won’t be able to see you. Keeping well back will also allow you to see the road ahead by looking past on either side of the large vehicle.
 Question - You’re following a large vehicle. Why should you stay a safe distance behind it?
+Answer - You'll allow the driver to see you in their mirrors.
 10
+Theory - You should be constantly scanning the road for clues about what’s going to happen next. Check your mirrors regularly, particularly as soon as you spot a hazard. What’s happening behind may affect your response to hazards ahead.
 Question - When you see a hazard ahead, you should use the mirrors. Why is this?
+Answer - To assess how your actions will affect following traffic.
 11
+Theory - At junctions, your view is often restricted by buildings, trees or parked cars. You need to be able to see in order to judge a safe gap. Edge forward slowly and keep looking all the time. Don’t cause other road users to change speed or direction as you em
 Question - You’re waiting to turn right at the end of a road. Your view is obstructed by parked vehicles. What should you do?
+Answer - Stop and then move forward slowly and carefully for a clear view.
 12
+Theory - Ensure that you can see clearly through the windscreen of your vehicle. Stickers or hanging objects could obstruct your view or draw your attention away from the road.
 Question - What may happen if you hang objects from your interior mirror?
+Answer - Your view could be obstructed.
 13
+Theory - If you feel sleepy, you should leave the motorway at a service area or at the next exit and stop in a safe place to rest. A supply of fresh air can help to keep you alert before you reach the exit, but it isn’t a substitute for stopping and resting.
 Question - You’re on a long motorway journey. What should you do if you start to feel sleepy?
+Answer - Leave the motorway and stop in a safe place.
 14
+Theory - Your headlights and tail lights help others on the road to see you. It may be necessary to turn on your lights during the day if visibility is reduced; for example, due to heavy rain. In these conditions, the light might fade before the street lights are
 Question - Why should you switch your lights on when it first starts to get dark?
+Answer - So others can see you more easily.
 15
+Theory - As you drive, look well ahead and all around so that you’re ready for any hazards that might develop. If you have to stop in an emergency, react as soon as you can while keeping control of the vehicle. Keep both hands on the steering wheel so you can cont
 Question - You’re driving on a wet road. You have to stop your vehicle in an emergency. What should you do?
+Answer - Keep both hands on the steering wheel.
 16
+Theory - It’s illegal to use a hand-held mobile phone while driving, except in a genuine emergency. Even using a hands-free kit can distract your attention. Park in a safe and convenient place before receiving or making a call or using text messaging. Then you’ll
 Question - When may you use a hand-held mobile phone in your car?
+Answer - When suitable parked.
 17
+Theory - It’s easy to be distracted. Planning your journey before you set off is important. A few sensible precautions are to tune your radio to stations in your area of travel, take planned breaks, and plan your route. Except for emergencies, it’s illegal to use your mobile while driving. 
 Question - What’s most likely to distract you while you’re driving?
+Answer - Using a mobile phone.
 18
+Theory - Before moving off, you should use both the interior and exterior mirrors to check that the road is clear. Look around to check the blind spots and, if necessary, give a signal to warn other road users of your intentions.
 Question - What should you do when moving off from behind a parked car?
+Answer - Check both interior and exterior mirrors.
 19
+Theory - Allow the cyclist plenty of room in case they wobble or swerve around a pothole or raised drain. Look well ahead before you start to overtake, because you’ll need to use all of the road. Look for entrances to fields where tractors or other farm machinery
 Question - You’re travelling along this narrow country road. How should you pass the cyclist?
+Answer - Leave them plenty of room as you pass.
 20
-Your vehicle is fitted with a hand-held telephone. What should you do to use the phone?
+Theory - Never attempt to use a hand-held phone while you’re driving, except in a genuine emergency. It’s illegal and will take your attention away from driving, putting you at greater risk of causing a collision.
+Question - Your vehicle is fitted with a hand-held telephone. What should you do to use the phone?
+Answer - Find a safe place to stop.
 21
 Theory - It’s easy to lose your way in an unfamiliar area. If you need to check a map or ask for directions, first find a safe place to stop.
 Question - You lose your way on a busy road. What’s the best action to take?
@@ -56,12 +94,20 @@ Answer - Ask someone to guide you.
 24
 Theory - Modern vehicles provide the driver with a good view of both the road ahead and behind using well-positioned mirrors. However, the mirrors can’t see every angle of the scene behind and to the sides of the vehicle. This is why it’s essential that you know when necessary you look around to check those areas not visible in your mirrors.
 Question - What does the term "blind spot" mean?
-Answer - 
+Answer - An area not visible to the driver.
 25
+Theory - Talking to someone while you’re driving can distract you and, unlike someone in the car with you, the person on the other end of a mobile phone is unable to see the traffic situations you’re dealing with. They won’t stop speaking to you even if you’re app
 Question - What’s likely to happen if you use a hands-free phone while you’re driving?
+Answer - It will divert your attention.
 26
+Theory - Before emerging right onto a dual carriageway, make sure that the central reservation is deep enough to protect your vehicle. If it isn’t, you should treat the dual carriageway as one road and check that it’s clear in both directions before pulling out. N
 Question - You’re turning right onto a dual carriageway. What should you do before emerging?
+Answer - Check that the central reservation is wide enough for your vehicle.
 27
+Theory - Windscreen pillars can completely block your view of pedestrians, motorcyclists and cyclists. You should make a particular effort to look for these road users; don’t just rely on a quick glance.
 Question - You’re waiting to emerge from a junction. The windscreen pillar is restricting your view. What should you be particularly aware of?
+Answer - Motorcyclists.
 28
+Theory - Vehicle navigation systems can be useful when driving on unfamiliar routes. However, they can also distract you and cause you to lose control if you look at or adjust them while driving. Pull up in a convenient and safe place before adjusting them.
 Question - How should you use a satellite navigation system so that it doesn’t distract you when you’re driving?
+Answer - Stop in a safe place before programming the system.

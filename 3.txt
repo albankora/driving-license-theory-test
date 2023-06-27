@@ -1,59 +1,120 @@
 Chapter 3 - Essential documents
 
+Theory - The minimum insurance required by law is third-party cover. This covers your liability to others involved in a collision but not damage to your vehicle. Basic third-party insurance also won’t cover theft or fire damage. Ask your insurance company for advi
 Question - What’s the legal minimum insurance cover you must have to drive on public roads?
+Answer - Third party only.
 
+Theory - Having an excess on your policy will help to keep the premium down. However, if you make a claim, you’ll have to pay the excess yourself – in this case, £100.
 Question - You claim on your insurance to have your car repaired. Your policy has an excess of £100. What does this mean?
+Answer - You'll have to pay the first £100 of the cost of repairs to your car.
 
+Theory - After passing your practical driving test, you can take further training. One option is known as the Pass Plus scheme. It’s designed to improve your basic driving skills and involves a series of modules, including night-time and motorway driving.
 Question - What’s the purpose of the Pass Plus scheme?
+Answer - To improve your basic driving skills.
 
+Theory - The Pass Plus scheme was created for newly qualified drivers. It aims to widen their driving experience and improve basic skills. After passing the practical driving test, additional professional training can be taken with an approved driving instructor
 Question - What does the Pass Plus scheme enable newly qualified drivers to do?
+Answer - Widen their driving experience.
 
+Theory - Third-party insurance doesn’t cover damage to your own vehicle or injury to yourself. If you have a crash and your vehicle is damaged, you might have to carry out the repairs at your own expense.
 Question - You have third-party insurance. What does this cover?
+Answer - Damage to other vehicles.
 
+Theory - The registered keeper of the vehicle is responsible for paying the vehicle tax or making a Statutory Off-Road Notification (SORN) if the vehicle is to be kept untaxed and off the road.
 Question - Who’s responsible for paying the vehicle tax?
+Answer - The registered keeper of the vehicle.
 
+Theory - Every vehicle used on the road has a registration document. This shows the vehicle’s details, including date of first registration, registration number, registered keeper, previous keeper, make of vehicle, engine size, chassis number, year of manufacture
 Question - What information is found on a vehicle registration document?
+Answer - The registered keeper.
 
+Theory - The licensing authority needs to keep its records up to date. It sends out a reminder when a vehicle’s tax is due for renewal. To do this, it needs to know the name and address of the registered keeper. Every vehicle in the country is registered, so it’s
 Question - When must you contact the vehicle licensing authority?
+Answer - When you change your vehicle.
 
+Theory - The licensing authorities hold the records of all vehicles, drivers and riders in Great Britain and Northern Ireland. They need to know if you have a medical condition that might affect your ability to drive safely. You must tell them if your health deter
 Question - When must you notify the licensing authority?
+Answer - When your health affects your driving.
 
+Theory - The cost of insurance varies with your age and how long you’ve been driving. Usually, the younger you are, the more expensive it is, especially if you’re under 25. Pass Plus provides additional training to newly qualified drivers. The scheme is recognised
 Question - When may the cost of your insurance come down?
+Answer - When you complete the Pass Plus scheme.
 
+Theory - Learner drivers benefit by combining professional driving lessons with private practice. However, you need to be at least 21 years old and have held your driving licence for at least 3 years before you can supervise a learner driver.
 Question - Which of these is a requirement before you can supervise a learner driver?
+Answer - You must be at least 21 years old.
 
+Theory - Driving without insurance is a serious offence. As well as an unlimited fine, you may be disqualified or incur penalty points.
 Question - What’s the maximum fine for driving without insurance?
+Answer - Unlimited.
 
+Theory - When a car is three years old (four years old in Northern Ireland), it must pass an MOT test and have a valid MOT certificate before it can be used on the road. Exceptionally, you may. drive to a pre-arranged test appointment or to a garage for repairs
 Question - Your car requires an MOT certificate. When is it legal to drive it without an MOT certificate?
+Answer - When driving to an appointment at an MOT centre.
 
+Theory - It’s your legal responsibility to keep the details on your vehicle registration certificate (V5C) up to date. You should tell the licensing authority about any changes. These include your name, address or vehicle details. 
 Question - Who’s legally responsible for ensuring that a vehicle registration certificate (V5C) is updated?
+Answer - The registered vehicle keeper.
 
+Theory - The vehicle you drive must be roadworthy and in good condition. If it’s over three years old, it must pass an MOT test to remain in use on the road (unless it’s exempt from the MOT test – see GOV.UK).
 Question - A new car will need its first MOT test when it’s how old?
+Answer - Three years.
 
+Theory - You must produce a valid insurance certificate when requested by a police officer. If you can’t do this immediately, you may be asked to take it to a police station.
 Question - In which of these circumstances must you show your insurance certificate?
+Answer - When a police officer asks you for it.
 
+Theory - New drivers are far more vulnerable on the road and more likely to be involved in incidents. The Pass Plus scheme has been designed to improve new drivers’ basic skills and help widen their driving experience.
 Question - The Pass Plus scheme has been created for new drivers. What’s its main purpose?
+Answer - To improve your basic skills.
 
+Theory - Using a vehicle on the road illegally carries a heavy fine and can lead to penalty points on your driving licence. You must have
+    • a valid driving licence
+    • paid the appropriate vehicle tax
+    • proper insurance cover.
 Question - Which of these is needed before you can legally use a vehicle on the road?
+Answer - A valid driving licence.
 
+Theory - Third-party insurance cover is usually cheaper than comprehensive cover. However, it doesn’t cover any damage caused to your own vehicle or property. It only covers damage and injury you cause to others.
 Question - Your vehicle is insured third-party only. What does this cover?
+Answer - Damage to other vehicles.
 
+Theory - You can renew your vehicle tax online, at post offices and vehicle registration offices, or by phone. When applying, make sure you have all the relevant valid documents, including a valid MOT test certificate where applicable.
 Question - What must you have when you apply to renew your vehicle tax?
+Answer - Valid insurance.
 
+Theory - You don’t have to carry around your vehicle’s documents wherever you go. If a police officer asks to see them and you don’t have them with you, you may be asked to produce them at a police station within 7 days.
 Question - A police officer asks to see your documents. You don’t have them with you. Within what time must you produce them at a police station?
+Answer - 7 days.
 
+Theory - Driving a vehicle without insurance cover is illegal, so be sure that, whoever’s car you drive, you’re insured – whether on their policy or on your own. If you need to take out insurance, it’s worth comparing several quotes before you decide which insurance
 Question - What must you make sure of before you drive someone else’s vehicle?
+Answer - That the vehicle is insured for your use.
 
+Theory - If your vehicle requires an MOT certificate, it’s illegal to drive it without one and your insurance may be invalid if you do so. The only exceptions are that you may drive to a pre-arranged MOT test appointment, or to a garage for repairs required for th
 Question - Your car needs to pass an MOT test. What may be invalidated if you drive the car without a current MOT certificate?
+Answer - Your insurance.
 
+Theory - It’s your responsibility to make sure you’re properly insured for the vehicle you’re driving. This is the case regardless of whether you’re a newly qualified driver or one with more experience.
 Question - What must a newly qualified driver do?
+Answer - Have valid motor insurance.
 
+Theory - Some garages will remind you that your vehicle is due for its annual MOT test, but not all do. To ensure continuous cover, you may take your vehicle for its MOT up to one month before its existing MOT certificate runs out. The expiry date on the new certificate
 Question - For how long is an MOT certificate normally valid?
+Answer - One year after the date it was issued.
 
+Theory - Sometimes an insurance company will issue a temporary insurance certificate called a cover note. It gives you the same insurance cover as your certificate but lasts for a limited period, usually one month.
 Question - What is a cover note?
+Answer - A document issued before you receive your insurance certificate.
 
+Theory - If you accumulate six or more penalty points within two years of gaining your first full licence, it will be revoked. The six or more points include any gained due to offences you committed before passing your test. If this happens, you may only drive as
 Question - You’ve just passed your practical test. You don’t hold a full licence in another category. Within two years you get six penalty points on your licence. What will you have to do?
+Answer - Retake your theory and practical tests.
 
+Theory - A SORN allows you to keep a vehicle off-road and untaxed. SORN will end when the vehicle is taxed, sold or scrapped.
 Question - For how long is a Statutory Off-Road Notification (SORN) valid?
+Answer - Until the vehicle is taxed, sold or scrapped	Expand
 
+Theory - If you want to keep a vehicle untaxed and off the public road, you must make a SORN. It’s an offence not to do so. Your SORN is valid until your vehicle is taxed, sold or scrapped.
 Question - What is a Statutory Off-Road Notification (SORN)?
+Answer - A notification to tell DVLA that a vehicle isn't being used on the road.

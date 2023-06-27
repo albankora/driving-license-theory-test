@@ -3,6 +3,14 @@
 $ make audio file=1
 ```
 
+## Road sign lesson 
+https://www.youtube.com/watch?v=IZOx1C8TngU
+
+## Questions videos
+https://www.youtube.com/watch?v=9v5878oG98Q&list=PLOdGCWUxoMC-sFTJFmSIh-iP8QQ1DJiP8
+https://www.youtube.com/watch?v=gg6sD96ZFP4
+https://www.youtube.com/watch?v=9v5878oG98Q
+
 ## Chapters
 1. Alertness
 2. Attitude
@@ -22,3 +30,9 @@ $ make audio file=1
 
 ## Chapter 8
 Chapter 8 in on the PDF you have to learn the singes 
+
+## Mock tests for driving
+https://www.youtube.com/watch?v=LZ9qdv21hpU&list=PLxiGVscepW7Rz8Dx0IUgKNrzzyQMnwPoh
+
+## Show me tell me question
+https://www.gov.uk/government/publications/car-show-me-tell-me-vehicle-safety-questions/car-show-me-tell-me-vehicle-safety-questions

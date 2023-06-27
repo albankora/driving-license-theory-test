@@ -1,79 +1,156 @@
 Chapter 2 - Attitude
+1
+Theory - Pelican crossings are signal-controlled crossings operated by pedestrians. Push-button controls change the signals. Pelican crossings have no red-and-amber stage before green; instead, they have a flashing amber light. This means you must give way to pede
+Question - At a pelican crossing, what must you do when the amber light is flashing?
+Answer - Give way to pedestrians already on the crossing.
+2
+Theory - If people are waiting to use a pedestrian crossing, slow down and be prepared to stop. Don’t wave them across the road, because another driver may not have seen them, may not have seen your signal, and may not be able to stop safely.
+Question - Why should you never wave people across at pedestrian crossings?
+Answer - Another vehicle may be coming.
+3
+Theory - ‘Tailgating’ is the term used when a driver or rider follows the vehicle in front too closely. It’s dangerous because it restricts their view of the road ahead and leaves no safety margin if the vehicle in front needs to slow down or stop suddenly. Tailga
+Question - What does ‘tailgating’ mean?
+Answer - Following another vehicle too closely.
+4
+Theory - Staying back will increase your view of the road ahead. This will help you to see any hazards that might occur and give you more time to react.
+Question - Why is it unwise to follow this vehicle too closely?
+Answer - Your view ahead will be reduced.
+5
+Theory - Water will reduce your tyres’ grip on the road. The safe separation gap of at least two seconds in dry conditions should be doubled, to at least four seconds, in wet weather.
+Question - What’s the minimum time gap you should leave when following a vehicle on a wet road?
+Answer - Four seconds.
+6
+Theory - A long lorry with a heavy load will need more time to pass you than a car, especially on an uphill stretch of road. Slow down and allow the lorry to pass.
+Question - A long, heavily laden lorry is taking a long time to overtake you. What should you do?
+Answer - Slow down.
+7
+Theory - Emergency vehicles use blue flashing lights. If you see or hear one, move out of its way as soon as it’s safe and legal to do so.
+Question - Which vehicle will use a blue flashing beacon?
+Answer - Bomb disposal.
+8
+Theory - Pull over in a place where the ambulance can pass safely. Check that there are no bollards or obstructions in the road that will prevent it from passing.
+Question - You’re being followed by an ambulance showing flashing blue lights. What should you do?
+Answer - Pull over as soon as it's safe to do so.
+9
+Theory - A green flashing beacon on a vehicle means the driver or passenger is a doctor on an emergency call. Give way to them if it’s safe to do so. Be aware that the vehicle may be travelling quickly or may stop in a hurry.
+Question - What type of emergency vehicle is fitted with a green flashing beacon?
+Answer - Doctor’s car.
+10
+Theory - These signs apply only to tram drivers, but you should know their meaning so that you’re aware of the priorities and are able to anticipate the actions of the driver.
+Question - Who should obey diamond-shaped traffic signs?
+Answer -  Tram drivers.
 
+Theory - You should be aware of all the warning lights and visual aids on the vehicle you’re driving. If you’re driving a vehicle for the first time, you should familiarise yourself with all the controls, warning lights and visual aids before you set off.
 Question - Which instrument-panel warning light would show that headlights are on full beam?
+Answer - Blue light with straight line.
 
+Theory - In good, dry conditions, a driver needs to keep a distance of at least two seconds from the car in front. This should allow enough space for you to stop if the driver in front has to stop suddenly.
 Question - In which conditions should you leave at least a two-second gap between your vehicle and the one in front?
+Answer - Dry weather.
 
+Theory - If you follow another vehicle with your headlights on full beam, they could dazzle the driver. Leave a safe distance and make sure that the light from your dipped beam falls short of the vehicle in front.
 Question - You’re driving at night on an unlit road, following another vehicle. What should you do?
+Answer - Use dipped headlights.
 
+Theory - If you’re driving a slow-moving vehicle along a narrow road, try not to hold up faster traffic. If you see vehicles following behind, pull over in a safe place and let the traffic pass before continuing. Don’t wave other traffic past – this could be dangerous
 Question - You’re driving a slow-moving vehicle on a narrow, winding road. What should you do?
+Answer - Pull in when you can, to let following vehicles overtake.
 
+Theory - Diesel fuel can spill out if your filler cap isn’t secured properly. This is most likely to occur on bends, junctions and roundabouts, where it will make the road slippery, especially if it’s wet. At the end of a dry spell of weather, the road surfaces ma
 Question - What can a loose filler cap on your diesel fuel tank cause?
+Answer - It can make the roads slippery for other road users.
 
+Theory - When learning to drive, it’s a good idea to practise filling your car with fuel. Ask your instructor if you can use a petrol station and fill the fuel tank yourself. You need to know where the filler cap is on the car you’re driving, so you know which sid
 Question - After refuelling your vehicle, what should you do to avoid spillage?
+Answer - Check that your filler cap is securely fastened.
 
 Question - What style of driving causes increased risk to everyone?
+Answer - Competitive.
 
+Theory - A toucan crossing is designed to allow pedestrians and cyclists to cross at the same time. Look out for cyclists approaching the crossing at speed.
 Question - At which type of crossing are cyclists allowed to ride across with pedestrians?
+Answer - Toucan.
 
+Theory - Try to be ready for the unexpected. Plan ahead and learn to anticipate hazards. You’ll then give yourself more time to react to any problems that might occur. Be tolerant of other road users who don’t behave correctly.
 Question - A vehicle pulls out in front of you at a junction. What should you do?
+Answer - Slow down and be ready to stop.
 
+Theory - Don’t enforce the speed limit by blocking another vehicle’s progress. This will only lead to the other driver becoming more frustrated. Allow the other vehicle to pass when you can do so safely.
 Question - You’re driving at the legal speed limit. A vehicle comes up quickly behind you, flashing its headlights. What should you do?
+Answer - Allow the vehicle to overtake.
 
+Theory - A sensor will automatically detect that the pedestrians have reached a safe position. Don’t drive on until the green light shows and it’s safe for you to do so.
 Question - You’re approaching a red light at a puffin crossing. Pedestrians are on the crossing. When will the red light change?
+Answer - When the pedestrians have cleared the crossing.
 
+Theory - You should only flash your headlights to warn others of your presence. Don’t use them to greet others, show impatience or give priority to other road users, because they could misunderstand your signal.
 Question - When should you flash your headlights at other road users?
+Answer - When letting them know that you're there.
 
+Theory - Be cautious, especially when your view is restricted by hedges, bushes, walls, large vehicles, etc. In the summer months, these junctions can become more difficult to deal with, because growing foliage may further obscure your view.
 Question - You’re approaching an unmarked crossroads. How should you deal with this type of junction?
+Answer - Slow down and look both ways.
 
+Theory - In good conditions, the ‘two-second rule’ can be used to check the distance between your vehicle and the one in front. This technique works on roads carrying faster traffic. Choose a fixed object, such as a bridge, sign or tree. When the vehicle ahead pas
 Question - The conditions are good and dry. When should you use the ‘two-second rule’?
+Answer - When checking your gap from the vehicle in front.
 
+Theory - Puffin crossings have infra-red sensors that detect when pedestrians are crossing and hold the red traffic signal until the crossing is clear. The use of a sensor means there’s no flashing amber phase as there is with a pelican crossing.
 Question - At a puffin crossing, which colour follows the green signal?
+Answer - Steady amber.
 
+Theory - If the driver behind is following too closely, there’s a danger they’ll collide with the back of your vehicle if you stop suddenly. You can reduce this risk by slowing down and increasing the safety margin in front of you. This reduces the chance that you
 Question - You’re in a line of traffic. The driver behind you is following very closely. What action should you take?
+Answer - Slow down, gradually increasing the gap between you and the vehicle in front.
 
+Theory - Use the full-beam headlights only when you can be sure that you won’t dazzle other road users.
 Question - You’re driving on a clear night. There’s a steady stream of oncoming traffic. The national speed limit applies. Which lights should you use?
+Answer - Dipped headlights.
 
+Theory - Large, long vehicles need extra room when making turns at junctions. They may move out to the right in order to make a left turn. Keep well back and don’t attempt to pass them on their left.
 Question - You’re driving behind a large goods vehicle. What should you do if it signals left but steers to the right?
+Answer - Slow down and let the vehicle turn.
 
+Theory - There are times when other drivers make incorrect or ill-judged decisions. Be tolerant and try not to retaliate or react aggressively. Always consider the safety of other road users, your passengers and yourself.
 Question - You’re driving along this road. The red van cuts in close in front of you. What should you do?
+Answer - Drop back to leave the correct separation distance.
 
+Theory - In queuing traffic, your brake lights can dazzle drivers behind you. If you apply your parking brake, you can take your foot off the footbrake. This will deactivate the brake lights.
 Question - You’re waiting in a traffic queue at night. How can you avoid dazzling drivers behind you?
+Answer - Use the parking brake only.
 
+Theory - Keep a steady course to give the driver behind an opportunity to overtake safely. If necessary, slow down. Reacting incorrectly to another driver’s impatience can lead to danger.
 Question - You’re driving in traffic at the speed limit for the road. What should you do if the driver behind is trying to overtake?
+Answer - Keep a steady course and allow the driver behind to overtake.
 
+Theory - Bus-lane signs show the vehicles allowed to use the lane and also its times of operation. Where no times are shown, the bus lane is in operation 24 hours a day.
 Question - There’s a bus lane on your left. The signs show no times of operation. What does this mean?
+Answer - The lane is in operation 24 hours a day.
 
+Theory - If someone in charge of animals asks you to stop, you should do so and switch off your engine. Animals are unpredictable and startle easily; they could turn and run into your path or into the path of another moving vehicle.
 Question - What should you do when a person herding sheep asks you to stop?
+Answer - Stop and switch off your engine	Collapse
 
+Theory - When you’re in a one-way street and want to turn right, you should take up a position in the right-hand lane. This will allow other road users, not wishing to turn, to pass on the left. Indicate your intention and take up the correct position in good time
 Question - You’re in a one-way street and want to turn right. There are two lanes. Where should you position your vehicle?
+Answer - In the right-hand lane.
 
+Theory - Horses can be startled by the sound of a car engine or the rush of air caused by a vehicle passing too closely. Keep well back and only pass when it’s safe. Leave them plenty of room; you may have to use the other side of the road to go past safely.
 Question - What should you do when you’re overtaking a horse and rider?
+Answer - Go past slowly and carefully.
 
+Theory - If you wish to turn right into a side road, take up your position in good time. Move to the centre of the road when it’s safe to do so. This will allow vehicles to pass you on the left. Early planning will show other traffic what you intend to do.
 Question - You wish to turn right ahead. Why should you take up the correct position in good time?
+Answer - To help other road users know what you intend to do.
 
+Theory - As you approach a zebra crossing, look for pedestrians waiting to cross. Where you can see them, slow down and prepare to stop. Be especially careful of children and older people, who may have difficulty judging when it’s safe to cross.
 Question - You’re approaching a zebra crossing. Pedestrians are waiting to cross. What should you do?
+Answer - Slow down and prepare to stop.
 
-Question - At a pelican crossing, what must you do when the amber light is flashing?
-
-Question - Why should you never wave people across at pedestrian crossings?
-
-Question - What does ‘tailgating’ mean?
-
-Question - Why is it unwise to follow this vehicle too closely?
-
-Question - What’s the minimum time gap you should leave when following a vehicle on a wet road?
-
-Question - A long, heavily laden lorry is taking a long time to overtake you. What should you do?
-
-Question - Which vehicle will use a blue flashing beacon?
-
-Question - You’re being followed by an ambulance showing flashing blue lights. What should you do?
-
-Question - What type of emergency vehicle is fitted with a green flashing beacon?
-
-Question - Who should obey diamond-shaped traffic signs?
-
+Theory - The narrow wheels of a bicycle can become stuck in the tram rails, causing the cyclist to stop suddenly, wobble or even lose balance altogether. The tram lines are also slippery, which could cause a cyclist to slide or fall off.
 Question - On a road where trams operate, which of these vehicles will be most at risk from the tram rails?
+Answer - Cycles.
 
+Theory - Your horn mustn’t be used between 11.30 pm and 7 am in a built-up area or when you’re stationary, unless a moving vehicle poses a danger. Its function is to alert other road users to your presence.
 Question - What should you use your horn for?
+Answer - To alert others to your presence.
