@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=9v5878oG98Q&list=PLOdGCWUxoMC-sFTJFmSIh-iP8QQ1DJ
 https://www.youtube.com/watch?v=gg6sD96ZFP4
 https://www.youtube.com/watch?v=9v5878oG98Q
 
+## Collection videos
+https://www.youtube.com/watch?v=9UG94tAlpCM&list=PLxiGVscepW7T6VHef_DTfX9hmVuneyyGy
+
 ## Chapters
 1. Alertness
 2. Attitude
@@ -36,3 +39,6 @@ https://www.youtube.com/watch?v=LZ9qdv21hpU&list=PLxiGVscepW7Rz8Dx0IUgKNrzzyQMnw
 
 ## Show me tell me question
 https://www.gov.uk/government/publications/car-show-me-tell-me-vehicle-safety-questions/car-show-me-tell-me-vehicle-safety-questions
+
+## Different type of crossing 
+https://www.4wheelz.co.uk/learning-to-drive/pedestrian-crossings/
